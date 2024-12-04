@@ -1,8 +1,8 @@
 # Dolphin Attack Research
 
-#### dolphin_attack.ipynb is designed to shift the carrier frequency of an audio file formatted in .wav.
+## dolphin_attack.ipynb is designed to shift the carrier frequency of an audio file formatted in .wav.
 
-##### Steps to run dolphin_attack.ipynb:
+### Steps to run dolphin_attack.ipynb:
 
 - Step 1: Set up audio file names and directory locations (1st block of the
   jupyter notebook)
@@ -14,7 +14,7 @@
   output will be the name of the audio file desired in the .wav format
   (output_file)
 
-##### Testing the audio outputted by dolphin_attack.ipynb
+### Testing the audio outputted by dolphin_attack.ipynb
 
 - In order to test the ultra sonic audio, one must have a way to play such an
   audio at such a frequency with the correct amount of power
