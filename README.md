@@ -9,7 +9,8 @@
 - Step 2: Make sure the audio is in .wav format
   - The second block of the jupyter notebook converts .m4a to .wav, however, all
     that is needed to change any different type of audio format is to replace
-    the .m4a with one's own audio format (eg: .mp3)
+    the "m4a" with one's own audio format in the first block of the jupyter
+    notebook (eg: "mp3")
 - Step 3: Run all for the dolphin_attack.ipynb jupyter notebook and then the
   output will be the name of the audio file desired in the .wav format
   (output_file)
